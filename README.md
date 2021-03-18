@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noxclow-git
 - 👀 I’m interested in technology and security
-- 🌱 I’m currently learning C++. Python, and PHP
+- 🌱 I’m currently learning C++, Javascript, Python, and PHP
 - 📫 How to reach me muhalwan12@gmail.com
 
 <!---
