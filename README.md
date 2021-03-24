@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @noxclow-git
 - 👀 I’m interested in technology and security
-- 🌱 I’m currently learning C++, Javascript, Python, and PHP
+- 🌱 I’m currently learning C++, Javascript, Python, PHP, CSS & HTML, and SQL
 - 📫 How to reach me muhalwan12@gmail.com
-
-<!---
-noxclow-git/noxclow-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
